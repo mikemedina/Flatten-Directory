@@ -1,3 +1,4 @@
+#!usr/bin/env/python
 from os import walk, remove
 from os.path import normpath, join
 from tkinter import *
